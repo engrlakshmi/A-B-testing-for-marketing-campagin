@@ -70,10 +70,5 @@ _Example filenames:_
 
 ---
 
-## 📬 Questions or Ideas?
-
-We love creativity! If you have questions, suggestions, or want to share your results, reach out to [Your Name] at [your.email@example.com].
-
----
 
 Happy testing—and may your campaigns be ever successful!
